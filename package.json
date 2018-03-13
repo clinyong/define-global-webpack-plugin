@@ -1,11 +1,14 @@
 {
 	"name": "define-global-webpack-plugin",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"main": "dist/index.js",
 	"license": "MIT",
 	"devDependencies": {
 		"typescript": "^2.7.2",
 		"webpack": "^4.1.1"
 	},
-	"files": ["dist/", "types/"]
+	"files": [
+		"dist/",
+		"types/"
+	]
 }
