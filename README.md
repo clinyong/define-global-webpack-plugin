@@ -4,7 +4,7 @@ A webpack plugin to define global variables.
 
 ### Install
 
-```
+```bash
 $ yarn add define-global-webpack-plugin -D
 ```
 
